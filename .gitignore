@@ -16,6 +16,7 @@ yarn-error.log
 
 # build
 /dist
+/.next
 
 # tests
 /test
